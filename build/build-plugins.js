@@ -19,6 +19,7 @@ const plugins = [
     // Include only required helpers
     externalHelpersWhitelist: [
       'createClass',
+      'createForOfIteratorHelperLoose',
       'createSuper',
       'defineProperties',
       'defineProperty',

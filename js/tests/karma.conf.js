@@ -73,11 +73,13 @@ const conf = {
         exclude: 'node_modules/**',
         // Include only required helpers
         externalHelpersWhitelist: [
-          'defineProperties',
           'createClass',
+          'createForOfIteratorHelperLoose',
           'createSuper',
-          'inheritsLoose',
+          'defineProperties',
           'defineProperty',
+          'getPrototypeOf',
+          'inheritsLoose',
           'objectSpread2'
         ],
         plugins: [
