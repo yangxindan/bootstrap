@@ -36,8 +36,8 @@ social_image_path:  /docs/4.4/assets/brand/bootstrap-social.png
 social_logo_path:   /docs/4.4/assets/brand/bootstrap-social-logo.png
 
 # Custom variables
-current_version:      4.4.1
-current_ruby_version: 4.4.1
+current_version:      4.4.2
+current_ruby_version: 4.4.2
 docs_version:         4.4
 github_org:           "https://github.com/twbs"
 repo:                 "https://github.com/twbs/bootstrap"
@@ -49,17 +49,17 @@ themes:               "https://themes.getbootstrap.com"
 icons:                "https://icons.getbootstrap.com"
 
 download:
-  source:           "https://github.com/twbs/bootstrap/archive/v4.4.1.zip"
-  dist:             "https://github.com/twbs/bootstrap/releases/download/v4.4.1/bootstrap-4.4.1-dist.zip"
-  dist_examples:    "https://github.com/twbs/bootstrap/releases/download/v4.4.1/bootstrap-4.4.1-examples.zip"
+  source:           "https://github.com/twbs/bootstrap/archive/v4.4.2.zip"
+  dist:             "https://github.com/twbs/bootstrap/releases/download/v4.4.2/bootstrap-4.4.2-dist.zip"
+  dist_examples:    "https://github.com/twbs/bootstrap/releases/download/v4.4.2/bootstrap-4.4.2-examples.zip"
 
 cdn:
   # See https://www.srihash.org for info on how to generate the hashes
-  css:              "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+  css:              "https://stackpath.bootstrapcdn.com/bootstrap/4.4.2/css/bootstrap.min.css"
   css_hash:         "sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
-  js:               "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+  js:               "https://stackpath.bootstrapcdn.com/bootstrap/4.4.2/js/bootstrap.min.js"
   js_hash:          "sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
-  js_bundle:        "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"
+  js_bundle:        "https://stackpath.bootstrapcdn.com/bootstrap/4.4.2/js/bootstrap.bundle.min.js"
   js_bundle_hash:   "sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm"
   jquery:           "https://code.jquery.com/jquery-3.5.0.slim.min.js"
   jquery_hash:      "sha384-/IFzzQmt1S744I+IQO4Mc1uphkxbXt1tEwjQ/qSw2p8pXWck09sLvqHmKDYYwReJ"
